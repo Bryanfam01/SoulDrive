@@ -81,10 +81,10 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Gong Xi Fa Cai !!! <img src="{{ asset('image/ghost.jpg') }}" alt="" width="200px">
+                    LAST HOLAND <img src="{{ asset('image/ghost.jpg') }}" alt="" width="200px">
                 </div>
                 <div>
-                    AXXHOLE
+                    May The God Be With You
                 </div>
 
                 <div class="links">
